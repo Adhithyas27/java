@@ -5,8 +5,10 @@ class calc{
         return a+b;
     }
 }
-public class calcobject {
-    public static void main(String[] args){
+public class calcobject 
+{
+    public static void main(String[] args)
+    {
         Scanner scan = new Scanner(System.in);
         calc cal=new calc();
         System.out.println("Enter the first number:");
@@ -15,7 +17,7 @@ public class calcobject {
         int n2=scan.nextInt();
         System.out.println(cal.add(n1,n2));
         scan.close();
-        cal.close();
+
     }
 
     
