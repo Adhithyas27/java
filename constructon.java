@@ -9,6 +9,7 @@ class name{
 
     name(int n,int p){
         System.out.println("Constructor is initialized and variable assigned number is "+n+" "+p);
+        
     }
     
 }

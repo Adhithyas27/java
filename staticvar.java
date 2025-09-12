@@ -1,7 +1,7 @@
 class ss{
     int number = 9;
     String name = "Adhi";
-    static String place = "bangalore";
+    String place = "bangalore";
 
     public void show(){
         System.out.println("number = "+number+"\nname = "+name+"\nplace = "+place);
