@@ -9,6 +9,10 @@ public class hashset {
         list.add(90);
         list.remove(90);
         System.out.println(list);
+        Integer[] aa=list.toArray(new Integer[0]);
+        for(Integer aaa:aa){
+            System.out.println(aaa);
+        }
         
         
     }
