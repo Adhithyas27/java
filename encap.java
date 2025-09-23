@@ -3,10 +3,10 @@ class Human{
     private String name;
 
     public void setNumber(int a){
-        number = a;
+        this.number = a;
     }
     public void setName(String b){
-        name = b;
+        this.name = b;
     }
     public int getNumber(){
         return number;
