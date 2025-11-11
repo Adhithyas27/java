@@ -13,6 +13,7 @@ public static void main(String[] args){
         if(adhi.get(aa)==1){
             System.out.println(aa+":"+adhi.get(aa));
         }
+        if(ad)
 
     }
     
