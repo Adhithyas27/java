@@ -20,6 +20,8 @@ public class override {
         obj = new B();
         int sum2 = obj.calc(1,2);
         System.out.println("Sum 1:"+sum1+"\nSum 2:"+sum2);
+        Integer a = 90;
+        toString();
     }
     
 }

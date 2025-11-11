@@ -10,7 +10,7 @@ class B implements A{
         System.out.println("in show...");
     }
     public void config(){
-        System.out.println("in comfig...");
+        System.out.println("in config...");
     }
 }
 

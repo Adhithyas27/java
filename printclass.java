@@ -13,6 +13,9 @@ public class printclass {
     {
         A obj = new A();
         System.out.println(obj);
+        int b = 50;
+        Integer a = b;
+        
     }
     
 }
